@@ -1,0 +1,2 @@
+# Finance-Cryptocurrency-Analysis-with-Python
+In this project, after extracting the data sets as csv, we tried to reflect them graphically and schematically about cryptocurrencies in finance by using data analysis and data visualization methods. In this project, there are other cryptocurrencies in the data set we provided in this project, but if you want, you can do the same after reading them as csv files. We used 3 cryptocurrencies of our choice. These are Ethereum, bitcoin and dogecoin.
